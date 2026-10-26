@@ -6,10 +6,6 @@ title: "pablo-website"
 
 ```{r}
 
-library(usethis)
 
-usethis::use_github(
-  private = FALSE
-)
 
 ```
