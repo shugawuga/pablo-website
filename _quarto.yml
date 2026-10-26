@@ -1,21 +1,26 @@
+
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "pablo-website"
+  title: "Pablo Valenzuela Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Fall 2026 Courses
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
 
 editor: visual
+
+
 
