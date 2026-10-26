@@ -2,10 +2,14 @@
 title: "pablo-website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+21
 
 ```{r}
-1 + 1
+
+library(usethis)
+
+usethis::use_github(
+  private = FALSE
+)
+
 ```
