@@ -8,8 +8,6 @@ title: "Fall 2026 Courses"
 
 - PA 541 Advanced Data Analysis
 
-::: {.callout-note} Current graduate coursework focused on data analysis, 
-programming and civic data applications. :::
-
-
-
+::: callout-note
+Current graduate coursework focused on data analysis, programming and civic data applications.
+:::

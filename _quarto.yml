@@ -14,26 +14,33 @@ website:
         text: Fall 2026 Courses
       - href: resume.qmd
         text: Resume
-
+        
 format:
   html:
     theme: cosmo
-    fontsize: 1.1rem
+    fontsize: 1.05rem
+    mainfont: Arial
     fontcolor: "#2B2B2B"
     linkcolor: "#6F42C1"
     css: styles.css
-    
-
-    
-    
-    
-    
     toc: true
+
+
+        
+# Cosmo gives a clean and professional base theme for the portfolio.
+# A 1.05rem font size improves readability while maintaining good scaling.
+# Dark charcoal is used for primary text/headings, while purple provides
+# a professional contrasting accent for links throughout the website.Aside that 
+#is one of my favorite colors :)
 
 resources:
   - resume.pdf
   - past-project-midterm.pdf
 
 editor: visual
+
+# Resources ensures downloadable PDF files are copied to the docs folder
+# and remain available when the website is published through GitHub Pages.
+
 
 
