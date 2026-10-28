@@ -18,7 +18,16 @@ website:
 format:
   html:
     theme: cosmo
+    fontsize: 1.1rem
+    fontcolor: "#2B2B2B"
+    linkcolor: "#6F42C1"
     css: styles.css
+    
+
+    
+    
+    
+    
     toc: true
 
 resources:

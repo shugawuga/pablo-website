@@ -1,1 +1,48 @@
 /* css styles */
+
+/* Primary color used for headings and navigation accents */
+:root {
+  --primary-color: #343A40;
+  --link-color: #6F42C1;
+  --link-hover-color: #59359A;
+}
+
+/* Main body text size uses rem units for responsive scaling */
+body {
+  font-size: 1.05rem;
+background-color: #E9E9ED;
+}
+
+
+/* Website title uses dark charcoal instead of Bootstrap blue */
+.navbar-brand {
+  color: #343A40 !important;
+}
+
+
+/* Purple table-of-contents links */
+#TOC a,
+#TOC .nav-link {
+  color: #6F42C1 !important;
+}
+
+/* Apply dark charcoal color to headings */
+h1, h2, h3 {
+  color: var(--primary-color);
+}
+
+/* Purple links provide contrast with the dark headings */
+a {
+  color: var(--link-color);
+}
+
+/* Darker purple provides visual feedback when hovering */
+a:hover {
+  color: var(--link-hover-color);
+}
+
+/* Apply purple accent to active and hovered navigation links */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #6F42C1 !important;
+}
