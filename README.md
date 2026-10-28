@@ -34,3 +34,5 @@ The site demonstrates several Quarto and web-development features, including:
 ## Deployment
 
 The rendered website files are stored in the `docs` directory and published using GitHub Pages.
+
+
