@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Past Project Showcase",
     "section": "",
-    "text": "This project demonstrates data analysis, data visualization, and GitHub workflow skills developed through coursework in PA 446.\n\n\n\nData analysis\nData visualization\nGitHub version control\nR programming"
+    "text": "This project was completed as part of PA 446: Coding for Civic Data Applications. The project incorporated multiple approaches to obtaining, analyzing, and presenting civic data, including working with APIs, web scraping, data manipulation, and visualization in R.\nThe project showcases skills in R programming, reproducible data analysis, data visualization, web-based data collection, Census API techniques, and Git/GitHub version control.\n[Download Project PDF](past-project-midterm.pdf)"
   },
   {
     "objectID": "projects.html#featured-project",
@@ -54,5 +54,19 @@
     "title": "Past Project Showcase",
     "section": "",
     "text": "This project demonstrates data analysis, data visualization, and GitHub workflow skills developed through coursework in PA 446.\n\n\n\nData analysis\nData visualization\nGitHub version control\nR programming"
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Past Project Showcase",
+    "section": "",
+    "text": "## PA 446 Project: Coding for Civic Data Applications\nThis project was completed as part of PA 446: Coding for Civic Data Applications. The project incorporated multiple approaches to obtaining, analyzing, and presenting civic data, including working with APIs, web scraping, data manipulation, and visualization in R.\nThe project showcases skills in R programming, reproducible data analysis, data visualization, web-based data collection, Census API techniques, and Git/GitHub version control.\n[Download Project PDF](past-project-midterm.pdf)\n&lt;embed src=“past-project-midterm.pdf” type=“application/pdf” width=“100%” height=“600px”&gt;"
+  },
+  {
+    "objectID": "projects.html#pa-446-project-coding-for-civic-data-applications",
+    "href": "projects.html#pa-446-project-coding-for-civic-data-applications",
+    "title": "Past Project Showcase",
+    "section": "",
+    "text": "This project was completed as part of PA 446: Coding for Civic Data Applications. The project incorporated multiple approaches to obtaining, analyzing, and presenting civic data, including working with APIs, web scraping, data manipulation, and visualization in R.\nThe project showcases skills in R programming, reproducible data analysis, data visualization, web-based data collection, Census API techniques, and Git/GitHub version control.\n[Download Project PDF](past-project-midterm.pdf)"
   }
 ]
