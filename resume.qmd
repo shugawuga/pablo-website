@@ -1,0 +1,18 @@
+
+
+
+---
+title: "Resume"
+---
+
+## Professional Resume
+
+My professional resume is available below for viewing or download.
+
+[Download Resume PDF](resume.pdf)
+
+<embed src="resume.pdf" type="application/pdf" width="100%" height="600px">
+
+
+
+

@@ -1,4 +1,3 @@
-
 project:
   type: website
   output-dir: docs
@@ -13,6 +12,8 @@ website:
         text: Projects
       - href: courses.qmd
         text: Fall 2026 Courses
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
@@ -20,7 +21,9 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+resources:
+  - resume.pdf
 
+editor: visual
 
 

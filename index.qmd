@@ -1,8 +1,28 @@
 ---
-title: "pablo-website"
+title: "Pablo R Valenzuela"
+image: profile.JPG
+
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:prvalenz@uillinois.edu
+
+    - text: GitHub
+      icon: github
+      href: https://github.com/shugawuga
+
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/pablorvalenzuela
 ---
 
-21
+Enterprise-Wide Auditor with the System Office, Office of University Audits. My professional interests include accounting, auditing, tax, data analysis and the use of technology to improve decision making and accountability.
+
+This portfolio highlights coursework, projects and technical skills developed through my graduate program and professional experience.
 
 ```{r}
 
