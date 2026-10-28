@@ -33,6 +33,8 @@ The site demonstrates several Quarto and web-development features, including:
 
 ## Deployment
 
-The rendered website files are stored in the `docs` directory and published using GitHub Pages.
+The website is rendered to the `docs` directory and published through GitHub Pages from the `main` branch.
 
+Live website:
 
+https://shugawuga.github.io/pablo-website/
